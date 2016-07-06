@@ -1,0 +1,12 @@
+-----	METHOD
+
+----	test dimensions * binning
+	-	dimensions	
+		-	2,3,4,10,32
+	-	binning	
+		-	put results in table instead of list
+
+
+----	100x tests
+
+
